@@ -32,7 +32,6 @@ Eine stabile, kabelgebundene Netzwerkverbindung zwischen Laden und Wohnung. Die 
 | Verlegehilfe | Zugseil (gelb-schwarz) |
 | Befestigung | Kabelbinder als Zugentlastung, Schrauben |
 | Werkzeug | Isolierte Schraubendreher, |
-| Messgeräte | Keine vorhanden (siehe Abschnitt 6) |
  
 ## 4. Vorgehen
  
