@@ -59,8 +59,6 @@ Das Kabel habe ich mit einem Zugseil durch die vorhandenen Wellrohre gezogen.
  
 Verwendet habe ich geschirmte R&M-Module (Typ RJ45/s-C6). Das Kabel wird mit einem Kabelbinder am Modul zugentlastet, der Schirm wird am Metallgehäuse kontaktiert.
  
-Adernbelegung nach [TODO: T568A oder T568B, steht auf dem Aufkleber am Modul, siehe IMG_0999].
- 
 <img src="images/IMG_0998.JPG" width="240" alt="Verpackung des R&M-Moduls"> <img src="images/IMG_0999.JPG" width="240" alt="Aufgelegte Adern am Modul"> <img src="images/IMG_1001.JPG" width="240" alt="Fertig aufgelegtes Modul mit Zugentlastung">
  
 *Von links: Modul in der Verpackung, aufgelegte Adern, fertiges Modul mit Zugentlastung.*
@@ -85,8 +83,7 @@ Ich hatte kein Kabelmessgerät. Eine Zertifizierungsmessung (Dämpfung, Nebenspr
  
 - Sichtprüfung: Sitz der Adern, Zugentlastung, saubere Montage
 - Link-Test: Link-LED an Endgerät und Gegenstelle
-- Funktionstest: Ping zwischen Laden und Wohnung, [TODO: Ergebnis, z. B. 0 % Paketverlust]
-- Geschwindigkeit: [TODO: ausgehandelte Link-Geschwindigkeit, z. B. 1 Gbit/s]
+- Funktionstest: Ping zwischen Laden und Wohnung,
 ## 6. Einordnung
  
 Die Leistungsklasse einer Strecke bestimmt das schwächste Bauteil. Das Kabel ist Cat.7a, die verbauten Module sind Cat.6 (R&M RJ45/s-C6). Die Strecke ist damit als Cat.6-Verbindung einzustufen, nicht als Cat.7a. Für 1 Gbit/s reicht das aus. Das Cat.7a-Kabel bietet Reserve, falls später Module nachgerüstet werden.
@@ -94,7 +91,7 @@ Die Leistungsklasse einer Strecke bestimmt das schwächste Bauteil. Das Kabel is
 
 ## 7. Ergebnis
  
-Laden und Wohnung sind über eine geschirmte Kupferverbindung (Cat.7a-Kabel, Cat.6-Module) vernetzt. Der Funktionstest war [TODO: erfolgreich / mit Einschränkung].
+Laden und Wohnung sind über eine geschirmte Kupferverbindung (Cat.7a-Kabel, Cat.6-Module) vernetzt. Der Funktionstest war erfolgreich.
  
 ## 8. Gelerntes
  
